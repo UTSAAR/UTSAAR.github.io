@@ -37,7 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-  - github-pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
