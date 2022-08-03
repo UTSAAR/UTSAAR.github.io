@@ -22,8 +22,8 @@ title: UTSA Advanced Robotics
 email: utsaar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Advanced robotics is a project based group...
-baseurl: "https://utsaar.github.io/" # the subpath of your site, e.g. /blog
-url: "https://utsaar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/im/ar_logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -37,7 +37,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
