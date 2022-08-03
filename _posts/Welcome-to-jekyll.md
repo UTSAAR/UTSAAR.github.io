@@ -1,40 +1,29 @@
-source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-# Fixing bundle serve command
-gem "webrick"
-gem "sdbm"
-gem "net-telnet"
-gem "xmlrpc"
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll/jekyll", "~> 4.2.2"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2022-08-02 21:04:52 -0500
+categories: jekyll update
+---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
 end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
-end
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
-# do not have a Java counterpart.
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-
-
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
