@@ -30,7 +30,7 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-architect
-logo: assets/images/AR_official_logo__1_-removebg-preview.png
+logo: "assets/images/ar_logo.png"
 plugins:
   - jekyll-feed
   - jekyll-paginate
