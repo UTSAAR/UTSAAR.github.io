@@ -94,8 +94,8 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+![Octocat]<img src="{%raw%}{{utsaar.github.io}}{%endraw%}/docs/assets/images/ar_logo.png" alt="Example of
+an included image">
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
