@@ -93,9 +93,8 @@ end
 - level 1 item
 
 ### Small image
+<img src="..assets/images/ar_logo.png" alt="Example of an included image">
 
-![Octocat]<img src="{%raw%}{{utsaar.github.io}}{%endraw%}/docs/assets/images/ar_logo.png" alt="Example of
-an included image">
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
