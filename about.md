@@ -93,7 +93,7 @@ end
 - level 1 item
 
 ### Small image
-<img src="..docs/assets/images/ar_logo.png" alt="Example of an included image">
+<img src="docs/assets/images/ar_logo.png" alt="Example of an included image">
 
 ### Large image
 
