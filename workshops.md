@@ -5,7 +5,7 @@
 Words Words Words \
 
 ## Sumobot Competition (8 Weeks)
-<img src="docs/assets/images/projects/1_sumobot.jpg" width="500" height="400" alt="Sumobot Image">\
+<img src="docs/assets/images/projects/1_sumobot.jpg" width="400" height="400" alt="Sumobot Image">\
 More Words \
 
 ]
