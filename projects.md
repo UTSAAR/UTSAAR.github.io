@@ -1,7 +1,7 @@
 # CURRENT PROJECTS
 
 ## Sawppy Rover 
-<img src="docs/assets/images/projects/sawppy_robot.jpg" width="500" height="400" alt="Sawppy Rover Image">
+<img src="docs/assets/images/projects/sawppy_robot.jpg" width="400" height="400" alt="Sawppy Rover Image">
 Words Words Words
 
 ## Project VIO 
