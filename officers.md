@@ -16,6 +16,10 @@ Words Words Words \
 <img src="docs/assets/images/officers/Johnathen_Kammer.jpg" width="500" height="700" alt="Johnathen Kammer Image">\
 Words Words Words \
 
+## EXECUTIVE ASSISTANT | Rafael Reyes
+<img src="docs/assets/images/officers/Rafael_Reyes.jpg" width="500" height="700" alt="Alexandru Iftinca Image">\
+Words Words Words \
+
 
 # PAST OFFICERS
 
