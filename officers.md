@@ -18,7 +18,7 @@ Words Words Words \
 Words Words Words \
 
 ## EXECUTIVE ASSISTANT | Rafael Reyes
-<img src="docs/assets/images/officers/Rafael_Reyes.png" width="500" height="700" alt="Rafael Reyes Image">\
+<img src="docs/assets/images/officers/Rafael_Reyes.png" width="400" height="700" alt="Rafael Reyes Image">\
 Words Words Words \
 
 ## ENGINEERING STUDENT COUNCIL REPRESENTATIVE | Martin  Bedolla
