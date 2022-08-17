@@ -16,10 +16,15 @@
     {% include head-custom.html %}
   </head>
 
+</a>
+
   <body>
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
+          <div class="logo-image">
+              <img src="./docs/assets/images/ar_logo.png" class="img-fluid">
+          </div>
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
