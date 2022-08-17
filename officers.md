@@ -20,6 +20,8 @@ Words Words Words \
 <img src="docs/assets/images/officers/Rafael_Reyes.jpg" width="500" height="700" alt="Alexandru Iftinca Image">\
 Words Words Words \
 
+## ENGINEERING STUDENT COUNCIL REPRESENTATIVE | Martin  Bedolla
+
 
 # PAST OFFICERS
 
