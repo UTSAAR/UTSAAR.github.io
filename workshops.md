@@ -9,7 +9,7 @@ Words Words Words \
 More Words \
 
 ]
-# ROCCURING WORKSHOPS
+# REOCCURING WORKSHOPS
 
 ## Fusion 360 2D & 3D Basics
 <img src="docs/assets/images/projects/fusion_360_ws.jpg" width="500" height="400" alt="Fusion 360 Workshop Image">\
