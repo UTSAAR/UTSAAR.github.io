@@ -1,6 +1,6 @@
 
 # UPCOMING EVENTS
-<img src="docs/assets/images/posters/first_general_meeting.png" width="400" height="790" alt="Fall 22 General Meeting Poster">
+<img src="docs/assets/images/posters/first_general_meeting.png" width="500" height="600" alt="Fall 22 General Meeting Poster">
 
 # [About Us!](about.md)
 
