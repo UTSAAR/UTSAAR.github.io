@@ -13,11 +13,9 @@ body {
 }
 
 .logo-image {
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
-    overflow: visible;
-    margin-top: -6px;
+      position: fixed;
+      top: 0;
+      left: 0;
 } 
 
 p {
