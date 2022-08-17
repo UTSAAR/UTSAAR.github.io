@@ -2,7 +2,8 @@
 
 ## PRESIDENT | Alexandru Iftinca
 <img src="docs/assets/images/officers/Alexandru_Iftinca.jpg" width="500" height="700" alt="Alexandru Iftinca Image">\
-Words Words Words \
+Bio:
+
 
 ## VICE PRESIDENT | Juan Cruz Rivera
 <img src="docs/assets/images/officers/Juan_Cruz.jpg" width="500" height="700" alt="Juan Cruz Image">\
