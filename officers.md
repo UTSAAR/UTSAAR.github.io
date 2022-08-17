@@ -2,28 +2,34 @@
 
 ## PRESIDENT | Alexandru Iftinca
 <img src="docs/assets/images/officers/Alexandru_Iftinca.jpg" width="500" height="700" alt="Alexandru Iftinca Image">\
-Bio:
+Study: Mechanical Engineering Undergrad \
+Email: alexandru.iftinca@my.utsa.edu
 
 
 ## VICE PRESIDENT | Juan Cruz Rivera
 <img src="docs/assets/images/officers/Juan_Cruz.jpg" width="500" height="700" alt="Juan Cruz Image">\
-Words Words Words \
+Study: Electrical Engineering Undergrad with Mathmatics Minor \
+Email: Juan.Cruz.Business@gmail.com
 
 ## TREASURER | Daniela Basurto
 <img src="docs/assets/images/officers/Daniela_Basurto.jpg" width="500" height="700" alt="Daniela Basurto Image">\
-Words Words Words \
+Study: Electrical Engineering Undergrad \
+Email: dbasurto112@gmail.com
 
 ## TECHNICAL DIRECTOR | Johnathen Kammer
 <img src="docs/assets/images/officers/Johnathen_Kammer.jpg" width="500" height="700" alt="Johnathen Kammer Image">\
-Words Words Words \
+Study: Computer Engineering Undergrad \
+Email: johnathenkamm@gmail.com
 
 ## EXECUTIVE ASSISTANT | Rafael Reyes
 <img src="docs/assets/images/officers/Rafael_Reyes.png" width="400" height="700" alt="Rafael Reyes Image">\
-Words Words Words \
+Study: Electrical Engineering Undergrad \
+Email: johnathenkamm@gmail.com
 
 ## ENGINEERING STUDENT COUNCIL REPRESENTATIVE | Martin  Bedolla
 <img src="docs/assets/images/officers/Martin_Bedolla.png" width="500" height="700" alt="Martin Bedolla Image">\
-Words Words Words \
+Study: Computer Science Undergrad \
+Email: Sandslaah717@gmail.com
 
 # PAST OFFICERS
 
