@@ -1,9 +1,4 @@
 
-```{r, echo=FALSE}
-htmltools::img(src = knitr::image_uri(./docs/assets/images/ar_logo.png), 
-               alt = 'logo', 
-               style = 'position:absolute; top:0; left:0; padding:10px;')
-```
 
 
 # UPCOMING EVENTS
