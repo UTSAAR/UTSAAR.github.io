@@ -24,7 +24,7 @@ Email: johnathenkamm@gmail.com
 ## EXECUTIVE ASSISTANT | Rafael Reyes
 <img src="docs/assets/images/officers/Rafael_Reyes.png" width="400" height="700" alt="Rafael Reyes Image">\
 Study: Electrical Engineering Undergrad \
-Email: johnathenkamm@gmail.com
+Email: rafael.reyes.0018@gmail.com
 
 ## ENGINEERING STUDENT COUNCIL REPRESENTATIVE | Martin  Bedolla
 <img src="docs/assets/images/officers/Martin_Bedolla.png" width="500" height="700" alt="Martin Bedolla Image">\
