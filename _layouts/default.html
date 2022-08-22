@@ -35,8 +35,9 @@
           <div class="logo-image">
               <img src="./docs/assets/images/ar_logo.png" class="img-fluid">
           </div>
+          <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <!--<h2>{{ site.description | default: site.github.project_tagline }}</h2>-->
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
@@ -46,9 +47,21 @@
       </div>
     </header>
 
+    <div class="navigation">
+      <!-- subject links  -->
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/projects.html">Our Projects</a></li>
+        <li><a href="/workshops.html">Workshops</a></li>
+        <li><a href="https://utsa.campuslabs.com/engage/organization/ar">Rowdylink</a></li>
+        <li><a href="/forms.html">Forms</a></li>
+        <li><a href="/officers.html">About Us</a></li>
+      </ul>
+    </div>
+
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <section id="main-content">
+          <section id="main-content">
           {{ content }}
         </section>
 
